@@ -6,6 +6,7 @@ description: something about this blog
 tags: 其他
 categories: sample-posts
 ---
+
 这个博客是基于[github pages](https://pages.github.com)平台搭建
 他以[Jekyll](https://jekyllrb.com)中的[这个](https://github.com/alshedivat/al-folio)为主题
 可以根据其中的README file来下载使用，听起来简单，实际上非常的繁琐复杂，有大量莫名其妙的格式（主要还是jekyll）
