@@ -22,3 +22,5 @@ hi this is laurie and i am a student currently studying cs in SUSTECH
 and i am glad to share anything about cs i know to you
 
 email:1847238294@qq.com
+
+该博客还没有完全的准备好，但大抵上可以正常浏览
