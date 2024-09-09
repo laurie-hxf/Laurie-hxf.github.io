@@ -1,7 +1,7 @@
 ---
 layout: post
 title: about this blog
-date: 2024-09-10 00:00:00
+date: 2024-09-10 00:00:00 +0800
 description: something about this blog
 tags: 其他
 categories: sample-posts
