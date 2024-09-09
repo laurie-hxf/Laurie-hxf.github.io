@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - laurie/dsaa
+  - laurie-hxf/dsaa
+  - laurie-hxf/CS106B
+  
