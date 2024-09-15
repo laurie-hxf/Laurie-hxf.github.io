@@ -13,6 +13,8 @@ categories: sample-posts
 安装该主题：https://github.com/alshedivat/al-folio/blob/master/INSTALL.md （最开始配置可以看里面的视频）
 修改该主题：https://github.com/alshedivat/al-folio/blob/master/CUSTOMIZE.md
 giscus评论：https://giscus.app/zh-CN
+git pages: https://pages.github.com
+jekll官网 :https://jekyllrb.com （里面有各种主题）
 
 温馨提示：当每次修改本地仓库的内容后，将它push到远程仓库，一般要等待几分钟，不用额外对github进行操作，最好在你要改变一些东西的时候连同改变一些像news的内容，这样你就可以判断你要改的东西有没有成功部署
 最后善用gpt 一切不懂的都可以问他
