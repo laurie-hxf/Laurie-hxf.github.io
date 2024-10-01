@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-tomorrow is my birthday
+国庆快乐，虽然我有一堆作业
