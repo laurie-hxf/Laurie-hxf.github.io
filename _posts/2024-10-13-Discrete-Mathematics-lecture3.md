@@ -27,7 +27,7 @@ uncountable：反之就是uncountable
 ###### 如何证明一个集合是countable：
 1. 证明存在两个单射函数从$Z^+ \rightarrow A$以及从$A \rightarrow Z^+$
 2. 直接列出一个序列
-   ==eg1==:证明Z是countable
+   ==eg1== :证明Z是countable
    $list a sequence：0,1,-1,2,-2...$
    ==eg2== :证明有理数是countable
 >   列出所有可能
@@ -35,7 +35,7 @@ uncountable：反之就是uncountable
 	$\frac{1}{2}\quad \frac{2}{2}\quad \frac{3}{2}\quad \frac{4}{3}\quad\frac{4}{1}\quad ...$
     $\frac{1}{3}\quad \frac{2}{3}\quad \frac{3}{3}\quad \frac{4}{3}\quad\frac{5}{3}\quad ...$
 
-###### 如何证明一个集合是uncountable
+### 如何证明一个集合是uncountable
 $Cantor’s\: diagonal\: argument$
 
 >Assume that R is countable.
@@ -50,7 +50,7 @@ $...$
 Proof by contradiction: (Cantor’s diagonal argument)
 • Assume that 𝒫(N) is countable.
 This means that all elements of this set can be listed as $S_0, S_1, S_2, …$,where $S_i∈ \mathcal{P}(N)$. Then, each $S_i⊆ N$ can be represented by a bit string $b_{i0}b_{i1}b_{i2}···$, 
-where$b_{ij}= 1$  if  $j ∈ S_i \quad and\quad b_{ij}=0 \quad if \quad j ∉ Si:$
+where $b_{ij}= 1$  if  $j ∈ S_i \quad and\quad b_{ij}=0 \quad if \quad j ∉ Si:$
 $S_0= \textcolor{red} {b_{00}}b_{01}b_{02}b_{03}...$
 $S_1=  b_{00}\textcolor{red}{b_{01}}b_{02}b_{03}...$
 $S_2=  b_{20}b_{21}\textcolor{red}{b_{22}}b_{23}...$
