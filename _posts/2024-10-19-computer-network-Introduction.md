@@ -45,7 +45,7 @@ digital subscriber line(DSL)用电话线来传
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/computer_network1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/13.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -62,7 +62,7 @@ packet switching衍生出的两个问题，如果一个packet传入到一个路�
 路由(routing)他是全局的作用，寻找一个从source到destination中最合适（最快maybe）的路径（路由器线路）然后将这些信息写入转发表中，然后路由器根据转发表将数据传输出去
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/computer_network2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/14.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -74,7 +74,7 @@ packet switching衍生出的两个问题，如果一个packet传入到一个路�
 ##### ISP
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/computer_network3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/15.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -108,14 +108,14 @@ packet switching衍生出的两个问题，如果一个packet传入到一个路�
 	- average（整个链路中最小的transmission rate R）
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-          {% include figure.liquid loading="eager" path="assets/img/computer_network4.jpg" class="img-fluid rounded z-depth-1" %}
+          {% include figure.liquid loading="eager" path="assets/img/16.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ##### Internet protocol stack
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/computer_network5.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/17.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -125,7 +125,7 @@ packet switching衍生出的两个问题，如果一个packet传入到一个路�
 ##### Encapsulation（封装）
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/computer_network6.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/18.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
