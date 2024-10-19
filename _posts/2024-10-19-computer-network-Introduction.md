@@ -1,7 +1,7 @@
 ---
 layout: post
 title: computer network introduction
-date: 2024-10-19 11:01:00
+date: 2024-10-19 11:01:00 +0800
 description: introduction
 tags: cs
 categories: sample-posts
