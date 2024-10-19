@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to build NAS 
-date: 2024-10-19 20:22:00 +0800
+date: 2024-10-19 10:22:00 +0800
 description: build nas by a computer and HDD
 tags: 其他
 categories: sample-posts
