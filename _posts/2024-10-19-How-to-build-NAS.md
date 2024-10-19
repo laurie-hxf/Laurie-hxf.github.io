@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to build nas 
+title: How to build NAS 
 date: 2024-10-19 20:22:00 +0800
 description: build nas by a computer and HDD
 tags: 其他
@@ -123,7 +123,7 @@ command+k然后弹出连接服务器窗口
 在文件中找到添加服务器
 然后也按照这个格式smb://<虚拟ip>/<Samba配置文件添加内容的那个头名字，在我的上面的例子中就是MyNas>填写
 
-但是iphone好像会不是很行，目前还没找到解决办法
+但是iphone好像会不是很稳定，目前还没找到解决办法
 
 
 #### **shell**
