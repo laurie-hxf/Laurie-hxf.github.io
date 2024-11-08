@@ -60,4 +60,4 @@ new文件夹最多只能有4个announcements否则会出现问题
 
 
 ##### cv
-具体的cv内容可以从_data/cv.yml中进行修改，参考[主题网站](https://github.com/alshedivat/al-folio/blob/master/CUSTOMIZE.md)中有提到怎么修改
+具体的cv内容可以从assets/json/resume.json中进行修改，参考[主题网站](https://github.com/alshedivat/al-folio/blob/master/CUSTOMIZE.md)中有提到怎么修改

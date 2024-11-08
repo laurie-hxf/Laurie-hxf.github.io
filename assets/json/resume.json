@@ -56,6 +56,13 @@
         "csapp",
         "cs61b"
       ]
+    },
+    {
+      "name":"film",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Stanley Kubrick"
+      ]
     }
   ]
 }
