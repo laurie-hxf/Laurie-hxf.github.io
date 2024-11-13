@@ -50,13 +50,13 @@ digital subscriber line(DSL)用电话线来传
 </div>
 
 ##### The network core
-==Packet switching== 
+<mark>Packet switching</mark> 
 - store and forward(packet是按照bit来进行传输，一个路由器必须接受完一个packet之后才可以将这个packet传输出去)
 - packet is transmitted at full link capacity
 - not reserved
 packet switching衍生出的两个问题，如果一个packet传入到一个路由器的速度大于他传输出去的速度，那必然会在output buffer中引起排队(queuing delay)，如果排队的数据过多，他会超出output buffer的容量，产生丢包(packet loss)
 
-==forwarding and routing==
+<mark>forwarding and routing</mark>
 每个路由器中间都有一个转发表(forwarding table)当数据从输入端口时，路由器根据数据包的表头之类的信息将packet输出到路由器合适的端口
 
 路由(routing)他是全局的作用，寻找一个从source到destination中最合适（最快maybe）的路径（路由器线路）然后将这些信息写入转发表中，然后路由器根据转发表将数据传输出去
@@ -67,7 +67,7 @@ packet switching衍生出的两个问题，如果一个packet传入到一个路�
 </div>
 
 
-==Circuit switching==
+<mark>Circuit switching</mark>
 每两个设备之间拉一根线，那么对于每一个设备他就要有n根线
 保障线路不被占用但非常浪费
 

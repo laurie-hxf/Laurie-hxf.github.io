@@ -27,9 +27,9 @@ uncountable：反之就是uncountable
 ###### 如何证明一个集合是countable：
 1. 证明存在两个单射函数从$Z^+ \rightarrow A$以及从$A \rightarrow Z^+$
 2. 直接列出一个序列
-   ==eg1== :证明Z是countable
+   <mark>eg1</mark> :证明Z是countable
    $list a sequence：0,1,-1,2,-2...$
-   ==eg2== :证明有理数是countable
+   <mark>eg2</mark> :证明有理数是countable
 >   列出所有可能
     $\frac{1}{1}\quad \frac{2}{1}\quad \frac{3}{1}\quad \frac{4}{1}\quad\frac{5}{1}\quad ...$
 	$\frac{1}{2}\quad \frac{2}{2}\quad \frac{3}{2}\quad \frac{4}{3}\quad\frac{4}{1}\quad ...$
@@ -46,7 +46,7 @@ $Cantor’s\: diagonal\: argument$
 $...$
 >然后构造一个使得他的他的第i个数和$r_i$的第i个元素都不一样
 
-==eg==证明𝒫(N)的power set是uncountable
+<mark>eg</mark>证明𝒫(N)的power set是uncountable
 Proof by contradiction: (Cantor’s diagonal argument)
 • Assume that 𝒫(N) is countable.
 This means that all elements of this set can be listed as $S_0, S_1, S_2, …$,where $S_i∈ \mathcal{P}(N)$. Then, each $S_i⊆ N$ can be represented by a bit string $b_{i0}b_{i1}b_{i2}···$, 
