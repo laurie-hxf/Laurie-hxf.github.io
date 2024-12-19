@@ -25,4 +25,6 @@ email:1847238294@qq.com
 
 豆瓣ID：mugglesheep
 
+[RSS](https://laurie-hxf.github.io/feed.xml)
+
 
