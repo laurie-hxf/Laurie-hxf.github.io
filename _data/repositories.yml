@@ -6,4 +6,6 @@ repo_description_lines_max: 2
 github_repos:
   - laurie-hxf/CS106B
   - laurie-hxf/csapp
+  - laurie-hxf/computer_network 
+  - laurie-hxf/digital_logic
   
